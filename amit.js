@@ -5,4 +5,4 @@ el.onClick=changeText(el)
 function changeText(id) {
     id.innerHTML = "Ooops!";
 }
-  
+///----------------neec
